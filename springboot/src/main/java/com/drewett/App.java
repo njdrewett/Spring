@@ -5,7 +5,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 /**
  * Hello world!
- * 
+ * Run as an App and
  * go to localhost:8080
  *
  */
